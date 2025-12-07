@@ -1,1 +1,1 @@
-# Come on impacting asteroid
+# COIASにおける探索データを利用した木星トロヤ群小惑星の解析
